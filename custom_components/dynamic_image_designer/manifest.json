@@ -1,0 +1,19 @@
+{
+  "domain": "dynamic_image_designer",
+  "name": "Dynamic Image Designer",
+  "after_dependencies": [
+    "http",
+    "frontend",
+    "panel_custom",
+    "opendisplay"
+  ],
+  "codeowners": ["@g4bri3lDev", "@jonasniesner"],
+  "config_flow": true,
+  "documentation": "https://github.com/OpenDisplay-org/Home_Assistant_Integration",
+  "integration_type": "service",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/OpenDisplay-org/Home_Assistant_Integration/issues",
+  "loggers": ["custom_components.dynamic_image_designer"],
+  "requirements": [],
+  "version": "0.1.0"
+}
