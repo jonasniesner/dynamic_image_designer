@@ -49,11 +49,3 @@ Keyboard shortcuts in the YAML editor:
 
 - `Ctrl/Cmd+Z` — undo
 - `Ctrl/Cmd+Shift+Z` or `Ctrl+Y` — redo
-
-## Support
-
-Open an issue on this repository’s issue tracker (see `manifest.json`).
-
-## License
-
-MIT — see [LICENSE](LICENSE).
