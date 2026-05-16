@@ -14,7 +14,6 @@ Currently supports **OpenDisplay** devices. Additional integrations may be added
 
 ## Requirements
 
-- Home Assistant **2024.1** or newer
 - [OpenDisplay](https://github.com/OpenDisplay-org/Home_Assistant_Integration) integration installed and configured
 - At least one OpenDisplay device in the device registry (optional: use virtual sketch mode)
 
